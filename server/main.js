@@ -9,4 +9,4 @@ app.get("/", (req, res) => {
   res.send("<h1>docker init</h1>");
 });
 
-app.listen(3030);
+app.listen(80);
